@@ -1,0 +1,68 @@
+{
+	"difficulty_select": 5,
+	"player_select": 1,
+	"hiscore": {
+		"1@Jeu Total@marianne_player": 37059840,
+		"2@Stage 2@marianne_player": 0,
+		"2@Stage 2@sion_player": 9103790,
+		"1@Stage 1@sion_player": 0
+	},
+	"spell_card_hist": {
+		"Normal": {
+			"Peak of energy": {
+				"marianne_player": [
+					1,
+					1
+				],
+				"sion_player": [
+					3,
+					6
+				]
+			},
+			"Out of limite 1": {
+				"marianne_player": [
+					0,
+					1
+				],
+				"sion_player": [
+					2,
+					2
+				]
+			},
+			"Out of Limite 2": {
+				"marianne_player": [
+					1,
+					1
+				],
+				"sion_player": [
+					3,
+					4
+				]
+			},
+			"Out_Of_Limit_3": {
+				"sion_player": [
+					1,
+					1
+				]
+			},
+			"Peak_Of_Energy": {
+				"sion_player": [
+					4,
+					12
+				]
+			},
+			"Out_Of_Limit_2": {
+				"sion_player": [
+					5,
+					6
+				]
+			},
+			"Out_Of_Limit_1": {
+				"sion_player": [
+					1,
+					5
+				]
+			}
+		}
+	}
+}

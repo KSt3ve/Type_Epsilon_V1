@@ -1,0 +1,39 @@
+{
+	"hiscore": {
+		"SC Debugger@SC Debugger@sion_player": 923330
+	},
+	"spell_card_hist": {
+		"Lunatic": {
+			"Deadly Hide-and-Seek": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"Demonic Child's Play": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"One Winged Black Demon": {
+				"sion_player": [
+					1,
+					1
+				]
+			},
+			"Gévaudan Legend : Impossible escape from fear": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"Darkness Illumination \"Messy and Savage Wind and Moon\" ": {
+				"sion_player": [
+					0,
+					1
+				]
+			}
+		}
+	}
+}

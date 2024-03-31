@@ -1,0 +1,330 @@
+{
+	"hiscore": {
+		"SC Debugger@SC Debugger@sion_player": 5801460,
+		"2@Stage 2@marianne_player": 0,
+		"3@Psychotic@sion_player": 1,
+		"Spell Practice@Spell Practice@sion_player": 47950,
+		"1@Stage 1@marianne_player": 0,
+		"1@Stage 1 Standard@sion_player": 5904270,
+		"1@Stage 1@sion_player": 32226260,
+		"3@Stage 3@sion_player": 0
+	},
+	"spell_card_hist": {
+		"Normal": {
+			"Peak of energy": {
+				"sion_player": [
+					1,
+					22
+				],
+				"marianne_player": [
+					0,
+					1
+				]
+			},
+			"\"Cercle de Chagrin\"": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"Out of Limite 2": {
+				"sion_player": [
+					1,
+					1
+				]
+			},
+			"Noyau d'initiation \"Chargement de système photonique\"": {
+				"sion_player": [
+					1,
+					2
+				],
+				"marianne_player": [
+					1,
+					1
+				]
+			},
+			"Noyau Aquatique \"Averse explosive\"": {
+				"sion_player": [
+					4,
+					7
+				]
+			},
+			"Hors Limite - Noyau d'initiation \"Système de création de torpilles\"": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"Noyau Aquatique \"Tremblement d'eau trouble\"": {
+				"sion_player": [
+					1,
+					6
+				]
+			},
+			"\"Enseignement globale d'une saturation de tirs\"": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"Noyau de Démence \"Festival de la déraison\"": {
+				"sion_player": [
+					1,
+					4
+				]
+			},
+			"Noyau d'initiation \"Barrage Dynamique\"": {
+				"sion_player": [
+					2,
+					6
+				],
+				"marianne_player": [
+					1,
+					1
+				]
+			},
+			"Peak_Of_Energy": {
+				"sion_player": [
+					0,
+					9
+				]
+			},
+			"Noyau de Démence \"Prison infernal de l'amour\"": {
+				"sion_player": [
+					2,
+					2
+				]
+			},
+			"Tombeau sous-marin": {
+				"sion_player": [
+					0,
+					4
+				]
+			},
+			"Noyau d'initiation \"Système de création de torpilles\"": {
+				"sion_player": [
+					8,
+					12
+				],
+				"marianne_player": [
+					2,
+					2
+				]
+			},
+			"Noyau de Démence \"Aliénation Mentale\"": {
+				"sion_player": [
+					0,
+					7
+				]
+			},
+			"Cercle de Chagrin": {
+				"sion_player": [
+					1,
+					1
+				]
+			},
+			"Enseignement globale d'une saturation de tirs": {
+				"sion_player": [
+					4,
+					6
+				],
+				"marianne_player": [
+					1,
+					2
+				]
+			},
+			"\"Tombeau sous-marin\"": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"Out of limite 1": {
+				"sion_player": [
+					1,
+					3
+				]
+			}
+		},
+		"Lunatic": {
+			"Out_Of_Limit_2": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"Enseignement globale d'une saturation de tirs": {
+				"marianne_player": [
+					0,
+					1
+				],
+				"sion_player": [
+					1,
+					2
+				]
+			},
+			"Noyau Aquatique \"Averse explosive\"": {
+				"sion_player": [
+					0,
+					7
+				]
+			},
+			"Noyau Aquatique \"Tremblement d'eau trouble\"": {
+				"sion_player": [
+					1,
+					10
+				]
+			},
+			"Tombeau sous-marin": {
+				"sion_player": [
+					2,
+					6
+				]
+			},
+			"Noyau d'initiation \"Système de création de torpilles\"": {
+				"marianne_player": [
+					0,
+					1
+				],
+				"sion_player": [
+					0,
+					3
+				]
+			},
+			"Peak_Of_Energy": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"Noyau de Démence \"Aliénation Mentale\"": {
+				"sion_player": [
+					0,
+					4
+				]
+			},
+			"Noyau de Démence \"Festival de la déraison\"": {
+				"sion_player": [
+					0,
+					12
+				]
+			},
+			"Noyau de Démence \"Prison infernal de l'amour\"": {
+				"sion_player": [
+					0,
+					2
+				]
+			},
+			"Noyau d'initiation \"Barrage Dynamique\"": {
+				"sion_player": [
+					0,
+					9
+				],
+				"marianne_player": [
+					0,
+					1
+				]
+			},
+			"Cercle de Chagrin": {
+				"sion_player": [
+					0,
+					6
+				]
+			}
+		},
+		"Psychotic": {
+			"boss3:1": {
+				"sion_player": [
+					0,
+					1
+				]
+			},
+			"boss3:2": {
+				"sion_player": [
+					0,
+					1
+				]
+			}
+		},
+		"Standard": {
+			"boss2:3": {
+				"sion_player": [
+					1,
+					2
+				]
+			},
+			"boss3:4": {
+				"sion_player": [
+					0,
+					3
+				]
+			},
+			"boss1:2": {
+				"sion_player": [
+					2,
+					2
+				]
+			},
+			"boss3:1": {
+				"sion_player": [
+					1,
+					1
+				]
+			},
+			"boss1:1": {
+				"sion_player": [
+					1,
+					3
+				]
+			},
+			"boss3:3": {
+				"sion_player": [
+					0,
+					2
+				]
+			},
+			"cube": {
+				"sion_player": [
+					3,
+					82
+				]
+			},
+			"boss1:3": {
+				"sion_player": [
+					2,
+					3
+				]
+			},
+			"boss2:2": {
+				"sion_player": [
+					0,
+					2
+				]
+			},
+			"Survival cube": {
+				"sion_player": [
+					0,
+					402
+				],
+				"marianne_player": [
+					0,
+					1
+				]
+			},
+			"boss2:1": {
+				"sion_player": [
+					2,
+					2
+				]
+			},
+			"boss3:2": {
+				"sion_player": [
+					1,
+					2
+				]
+			}
+		}
+	},
+	"player_select": 1,
+	"difficulty_select": 9
+}

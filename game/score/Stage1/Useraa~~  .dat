@@ -1,0 +1,206 @@
+{
+	"repsaver": "",
+	"hiscore": {
+		"SC Debugger@SC Debugger@Flandre_player": 1730330,
+		"SC Debugger@SC Debugger@sion_player": 7637870,
+		"Stage1@Lunatic@Flandre_player": 7640,
+		"3@Normal@sion_player": 7239170,
+		"1@Normal@sion_player": 34083920,
+		"Stage1@Hard@Flandre_player": 13960200,
+		"2@Normal@sion_player": 27110450,
+		"Bibliothèque de la nouvelle Alexandria@Normal@sion_player": 0,
+		"Stage1@Stage1@Flandre_player": 1140,
+		"3@Normal@marianne_player": 28508420,
+		"1@Normal@marianne_player": 29316180,
+		"2@Normal@marianne_player": 9196820,
+		"1@Stage 1@marianne_player": 29618480
+	},
+	"difficulty_select": 5,
+	"player_select": 2,
+	"spell_card_hist": {
+		"Normal": {
+			"Peak of energy": {
+				"sion_player": [
+					9,
+					13
+				],
+				"marianne_player": [
+					1,
+					9
+				]
+			},
+			"Out of limite 1": {
+				"marianne_player": [
+					5,
+					7
+				],
+				"sion_player": [
+					8,
+					9
+				]
+			},
+			"Out of Limite 2": {
+				"marianne_player": [
+					3,
+					5
+				],
+				"sion_player": [
+					7,
+					17
+				]
+			},
+			"Out_Of_Limit_3": {
+				"sion_player": [
+					3,
+					3
+				],
+				"marianne_player": [
+					3,
+					3
+				]
+			},
+			"Peak_Of_Energy": {
+				"sion_player": [
+					3,
+					7
+				],
+				"marianne_player": [
+					2,
+					8
+				]
+			},
+			"Out_Of_Limit_2": {
+				"sion_player": [
+					1,
+					10
+				],
+				"marianne_player": [
+					1,
+					10
+				]
+			},
+			"Out_Of_Limit_1": {
+				"sion_player": [
+					3,
+					10
+				],
+				"marianne_player": [
+					2,
+					13
+				]
+			}
+		},
+		"Lunatic": {
+			"Nekomania : Kagome Kagome": {
+				"marianne_player": [
+					0,
+					1
+				],
+				"Flandre_player": [
+					1,
+					15
+				]
+			},
+			"Nekomania : Angry Soul Eater": {
+				"Flandre_player": [
+					0,
+					1
+				]
+			},
+			"Nekomania : Desperate Souls Running": {
+				"Flandre_player": [
+					1,
+					6
+				]
+			},
+			"Nekomania : Malicious Spirit": {
+				"Flandre_player": [
+					0,
+					1
+				]
+			}
+		},
+		"All": {
+			"Nekomania : Kagome Kagome": {
+				"Flandre_player": [
+					1,
+					17
+				]
+			},
+			"[]": {
+				"Flandre_player": [
+					0,
+					23
+				]
+			},
+			"Nekomania : Malicious Spirit": {
+				"marisa_player": [
+					0,
+					1
+				],
+				"Flandre_player": [
+					4,
+					63
+				]
+			},
+			"Old God : Kagutsuchi’s Cage": {
+				"reimu_player": [
+					0,
+					1
+				],
+				"Flandre_player": [
+					1,
+					18
+				]
+			},
+			"Nekomania : Desperate souls": {
+				"reimu_player": [
+					1,
+					4
+				],
+				"Flandre_player": [
+					7,
+					32
+				]
+			},
+			"「」": {
+				"reimu_player": [
+					0,
+					10
+				],
+				"Flandre_player": [
+					0,
+					2
+				]
+			},
+			"Nekomania : Angry Soul Eater": {
+				"Flandre_player": [
+					0,
+					21
+				],
+				"reimu_player": [
+					0,
+					2
+				]
+			},
+			"Dangerous Child Play": {
+				"Flandre_player": [
+					1,
+					23
+				]
+			},
+			"Nekomania : Desperate Souls Running": {
+				"Flandre_player": [
+					1,
+					9
+				]
+			},
+			"Evil Yokai : Shuten dōji's over-power": {
+				"Flandre_player": [
+					0,
+					10
+				]
+			}
+		}
+	}
+}
